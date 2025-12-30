@@ -4341,6 +4341,11 @@
 		"source": "https://www.docker.com/company/newsroom/media-resources"
 	},
 	{
+		"title": "Dokploy",
+		"hex": "000000",
+		"source": "https://dokploy.com"
+	},
+	{
 		"title": "Docs.rs",
 		"hex": "000000",
 		"source": "https://docs.rs"
